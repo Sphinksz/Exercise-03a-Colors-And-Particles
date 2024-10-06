@@ -7,6 +7,7 @@ TagManager:
   - death
   - block
   - ball
+  - bgm
   layers:
   - Default
   - TransparentFX
