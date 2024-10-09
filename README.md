@@ -1,31 +1,26 @@
-# Exercise-03c-Music-and-Sound
+# Exercise-03d-Shaders
 
 Exercise for MSCH-C220
 
-The third installment, adding music, sound effects, and a few more "juicy" features to a simple brick-breaker game.
-
-## To play
-
-Move the paddle using the mouse. Help the ball break all the bricks before you run out of time.
+The final step adding "juicy" features to a simple brick-breaker game.
 
 
 ## Implementation
 
-Built using Unity 2022.3.45f
+Built using Godot 2022.3.45f
 
-Music and sound effects recorded in SoundTrap
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
+ * [Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
- 
- ## Future Development
 
-Adding a face, Shaders, Powerups, etc.
 
-## Created by 
+## Future Development
 
-Blake Swing
+Power-ups, etc.
+
+## Created by Blake Swing
